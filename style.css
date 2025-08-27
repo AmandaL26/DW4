@@ -35,3 +35,17 @@ h4 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+input {
+    border-style: none;
+}
+
+.base button {
+    background-color: rgb(209, 0, 0);
+    width: 100%;
+    height: 6%;
+    justify-self: center;
+    border-bottom: 4%;
+    color: aliceblue;
+    border-color: transparent;
+    border-radius: 1rem;
+}
